@@ -1,0 +1,39 @@
+# Requirements for AI-Powered Resume Analyzer & Career Assistant
+# Last updated: April 2025
+
+# Core dependencies
+streamlit
+python-dotenv
+
+# PDF processing
+pdf2image
+Pillow
+poppler-utils  # System dependency - install via apt-get or brew
+
+# AI/ML
+google-generativeai  # Google's Gemini API client
+
+# Data processing
+pandas
+numpy
+nltk
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Utility
+requests
+pyyaml
+typing-extensions
+
+# Optional - for performance improvements
+# ujson>=5.8.0
+# orjson>=3.9.0
+
+# For development
+# pytest>=7.4.0
+# black>=23.7.0
+# flake8>=6.1.0
+# mypy>=1.5.1
