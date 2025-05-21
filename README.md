@@ -1,5 +1,3 @@
-# ai_talent_matcher
-
 # AI-Powered Resume Analyzer & Career Assistant
 
 **Version:** 2.5.0  
